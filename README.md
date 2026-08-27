@@ -20,11 +20,11 @@ Tools: Excel, PostgreSQL (pgAdmin), Python (pandas, NumPy, scikit-learn, matplot
 
 <b>Findings</b>: Sales data demonstrated a seasonal pattern, with peaks around January, and troughs around July. Sales decline for roughly the first half of the year and turn upward for roughly the second half. 
 
-![Sales Dashboard](Dashboard.png)
+![Sales Dashboard](Assets/Dashboard.png)
 
 All three product categories showed similar seasonal swings, with peak-to-trough decline of ~53%.  Peripherals account for most of the aggregate decline in units at 63.23%, with smart watches at 13.79% and tablets at 22.98%. 
 
-![Peak-to-trough table](<Peak to trough.png>)
+![Peak-to-trough table](<Assets/Peak to trough.png>)
 
 <b>Surprises / Insights</b>: Sales did not follow a straightforward linear trend. A trigonometric model provided a substantially better fit and showed that sales follow a recurring seasonal pattern (note: see technical notebook for details on the modeling process).
 
