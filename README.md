@@ -10,7 +10,7 @@ Data: AI-generated synthetic sales data covering 2024–2025, created for this c
 
 Tools: Excel, PostgreSQL (pgAdmin), Python (pandas, NumPy, scikit-learn, matplotlib), Tableau.
 
-<h2><b>Executive Narrative</u></h2>
+<h2><b>Executive Narrative</b></h2>
 
 <b>Business Question</b>: How can a (hypothetical) consumer electronics company use patterns in sales data to help make inventory planning decisions? 
 
