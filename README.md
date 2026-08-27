@@ -1,6 +1,6 @@
 # Seasonal Demand Analysis for Inventory Planning
 
-<u><b>Summary</u></b> 
+**<u>Summary</u>** 
 
 Sales data for a hypothetical consumer electronics company was analyzed to inform inventory planning. The analysis found a seasonal demand structure, with products in the peripherals category making up most of the absolute peak-to-trough decline. 
 
