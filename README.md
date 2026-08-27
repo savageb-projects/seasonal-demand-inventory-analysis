@@ -30,7 +30,7 @@ All three product categories showed similar seasonal swings, with peak-to-trough
 
 <b>Recommendations</b>:
 
-Seasonal inventory planning:
+Seasonal inventory planning
 
 > <b>Data insight</b>: Sales follow a seasonal structure with cycles of peaks and troughs.  
 > 
@@ -38,7 +38,7 @@ Seasonal inventory planning:
 >
 > <b>Action step</b>: Develop seasonal inventory targets guided by demand patterns in the data.
 
-Forecast peak peripherals demand:
+Forecast peak peripherals demand
 
 > <b>Data insight</b>: Peripherals make up the largest part of aggregate peak-to-trough decline at ~63%.
 >
