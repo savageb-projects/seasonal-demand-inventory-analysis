@@ -32,19 +32,19 @@ All three product categories showed similar seasonal swings, with peak-to-trough
 
 Seasonal inventory planning
 
-> <b>Data insight</b>: Sales follow a seasonal structure with cycles of peaks and troughs.  
-> 
-> <b>Takeaway</b>: Inventory planning should account for seasonal variation in demand, rather than a single year-round target.
->
-> <b>Action step</b>: Develop seasonal inventory targets guided by demand patterns in the data.
+- <b>Data insight</b>: Sales follow a seasonal structure with cycles of peaks and troughs.  
+
+- <b>Takeaway</b>: Inventory planning should account for seasonal variation in demand, rather than a single year-round target.
+
+- <b>Action step</b>: Develop seasonal inventory targets guided by demand patterns in the data.
 
 Forecast peak peripherals demand
 
-> <b>Data insight</b>: Peripherals make up the largest part of aggregate peak-to-trough decline at ~63%.
->
-> <b>Takeaway</b>: Peripherals are likely to have a stronger impact on seasonal inventory requirements.
->
-> <b>Action step</b>: Forecast peak seasonal demand for peripherals, with the aim of minimizing stockout and carrying costs. 
+- <b>Data insight</b>: Peripherals make up the largest part of aggregate peak-to-trough decline at ~63%.
+
+- <b>Takeaway</b>: Peripherals are likely to have a stronger impact on seasonal inventory requirements.
+
+- <b>Action step</b>: Forecast peak seasonal demand for peripherals, with the aim of minimizing stockout and carrying costs. 
 
 <b>Limitations</b>: This study only examined sales by product category. Additional research is required to apply the findings to specific products. 
 
