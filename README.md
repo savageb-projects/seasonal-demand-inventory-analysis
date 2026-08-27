@@ -1,6 +1,6 @@
 # Seasonal Demand Analysis for Inventory Planning
 
-**<u>Summary</u>** 
+<b>Summary</b>
 
 Sales data for a hypothetical consumer electronics company was analyzed to inform inventory planning. The analysis found a seasonal demand structure, with products in the peripherals category making up most of the absolute peak-to-trough decline. 
 
@@ -10,7 +10,7 @@ Data: AI-generated synthetic sales data covering 2024–2025, created for this c
 
 Tools: Excel, PostgreSQL (pgAdmin), Python (pandas, NumPy, scikit-learn, matplotlib), Tableau.
 
-<u><b>Executive Narrative</u></b>
+<h2><b>Executive Narrative</u></h2>
 
 <b>Business Question</b>: How can a (hypothetical) consumer electronics company use patterns in sales data to help make inventory planning decisions? 
 
@@ -52,7 +52,7 @@ Findings are based on historical sales data. Changes in factors that affect sale
 
 This case study uses synthetic sales data with the aim of demonstrating analytical approach. It is not intended to make recommendations for live business practice. 
 
-<b><u>Repository Contents</b></u>
+<b><h2>Repository Contents</b></h2>
 
 - Presentation - visual overview of the case study.
 - Technical notebook - analytical workflow.
